@@ -1,0 +1,11 @@
+#product-list {
+  margin-top: 20px;
+}
+.product-item {
+  padding: 8px;
+  border-bottom: 1px solid #ccc;
+}
+#feedback {
+  margin-top: 10px;
+  font-weight: bold;
+}
